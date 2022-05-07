@@ -1,0 +1,16 @@
+rules:
+- DOMAIN-SUFFIX,sonarr.tv,Proxy
+- DOMAIN-SUFFIX,nyaa.si,Proxy
+- DOMAIN-SUFFIX,m-team.cc,Proxy
+- DOMAIN-SUFFIX,torrentapi.org,Proxy
+- DOMAIN-SUFFIX,hdatmos.club,Proxy
+- DOMAIN-SUFFIX,image.tmdb.org,Proxy
+- DOMAIN-SUFFIX,www.themoviedb.org,Proxy
+- DOMAIN-SUFFIX,api.themoviedb.org,Proxy
+- DOMAIN-SUFFIX,plex.tv,Proxy
+- DOMAIN-SUFFIX,thetvdb.com,Proxy
+- DOMAIN-SUFFIX,fanart.tv,Proxy
+- DOMAIN-SUFFIX,omdbapi.com,Proxy
+- DOMAIN-SUFFIX,api.anidb.net,Proxy
+- DOMAIN-SUFFIX,gravatar.com,Proxy
+- DOMAIN-SUFFIX,github.com,Proxy
