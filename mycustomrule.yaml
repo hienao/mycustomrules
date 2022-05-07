@@ -1,4 +1,4 @@
-rules:
+prepend-rules:
 - DOMAIN-SUFFIX,sonarr.tv,Proxies
 - DOMAIN-SUFFIX,nyaa.si,Proxies
 - DOMAIN-SUFFIX,m-team.cc,Proxies
