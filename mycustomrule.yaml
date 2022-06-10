@@ -14,3 +14,5 @@ rules:
 - DOMAIN-SUFFIX,api.anidb.net,Proxies
 - DOMAIN-SUFFIX,gravatar.com,Proxies
 - DOMAIN-SUFFIX,github.com,Proxies
+- DOMAIN-SUFFIX,repo.maven.apache.org,Proxies
+- DOMAIN-SUFFIX,flutter.dev,Proxies
